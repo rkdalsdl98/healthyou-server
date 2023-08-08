@@ -89,3 +89,4 @@ User, Profile 분할
 JWT 설정 좀 자세히 알아봐라  
 refresh토큰 넣어야 한다  
 배포 하기전에 crud에 가드 넣어줘라  
+ssl 넣어줘라  
