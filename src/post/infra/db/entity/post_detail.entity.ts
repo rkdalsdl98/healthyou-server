@@ -39,8 +39,4 @@ export class PostDetailEntity {
         default: 0
     })
     thumbs: number
-
-    @Column()
-    @CreateDateColumn()
-    created_at: Date
 }

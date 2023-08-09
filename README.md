@@ -72,6 +72,12 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 Nest is [MIT licensed](LICENSE).
 
+# DB Diagram  
+
+<p align="center">
+<img src="https://github.com/rkdalsdl98/healthyou-server/assets/77562358/b1bed8ca-e66b-43b6-937c-220c15055384" width="200" alt="Nest Logo" />
+</p>
+
 # 현황  
 
 회원가입 메일 송신 루틴  
@@ -90,3 +96,8 @@ JWT 설정 좀 자세히 알아봐라
 refresh토큰 넣어야 한다  
 배포 하기전에 crud에 가드 넣어줘라  
 ssl 넣어줘라  
+아키텍처 그려서 넣어라 clean architecture  
+사용한 패턴 설명 간단하게 넣어라 cqrs  
+db 다이어그램 새로 그러서 넣어라  
+erd 그려서 넣어라  
+게시글에 카테고리 넣을거다  
