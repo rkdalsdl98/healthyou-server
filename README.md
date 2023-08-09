@@ -75,7 +75,7 @@ Nest is [MIT licensed](LICENSE).
 # DB Diagram  
 
 <p align="center">
-<img src="https://github.com/rkdalsdl98/healthyou-server/assets/77562358/b1bed8ca-e66b-43b6-937c-220c15055384" width="200" alt="Nest Logo" />
+<img src="https://github.com/rkdalsdl98/healthyou-server/assets/77562358/b1bed8ca-e66b-43b6-937c-220c15055384" width="400" alt="Nest Logo" />
 </p>
 
 # 현황  
