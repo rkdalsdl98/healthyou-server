@@ -73,7 +73,7 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 Nest is [MIT licensed](LICENSE).  
 
 # 개요  
-
+  
   실생활에서 운동을 시작 할때 혹은 운동을 지속적으로 이어나갈때 내가 계획한 목표를 달성해 나아가고 있는가? 에 대한 과정을 직접 계획하고 행한 결과를 기록하는 어플리케이션이 있으면 어떨까?? 하는 생각에서 기반된 프로젝트 입니다.  
     
   1인 개발로 시작한 이 프로젝트는 Flutter를 이용한 어플리케이션 배포를 목적으로 만들었으며 해당 레포지토리는 유저간에 커뮤니케이션을 가능하게 도와주는 서버입니다.
@@ -89,7 +89,9 @@ Nest is [MIT licensed](LICENSE).
 
 <p align="center">
 <img src="https://github.com/rkdalsdl98/healthyou-server/assets/77562358/b1bed8ca-e66b-43b6-937c-220c15055384" width="400" alt="Nest Logo" />
-</p>
+</p>  
+
+
 
 # 완료  
 
@@ -104,6 +106,7 @@ Nest is [MIT licensed](LICENSE).
 JWT 인증 루틴  
 User, Profile 분할  
 게시글, 댓글 수정 루틴  
+DB 다이어그램  
 
 # 현황  
 
@@ -113,6 +116,4 @@ refresh토큰 넣어야 한다
 ssl 넣어줘라  
 아키텍처 그려서 넣어라 clean architecture  
 사용한 패턴 설명 간단하게 넣어라 cqrs  
-db 다이어그램 새로 그러서 넣어라  
-erd 그려서 넣어라  
 게시글에 카테고리 넣을거다  
