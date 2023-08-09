@@ -91,7 +91,7 @@ Nest is [MIT licensed](LICENSE).
 <img src="https://github.com/rkdalsdl98/healthyou-server/assets/77562358/b1bed8ca-e66b-43b6-937c-220c15055384" width="400" alt="Nest Logo" />
 </p>
 
-# 현황  
+# 완료  
 
 회원가입 메일 송신 루틴  
 회원가입 메일 인증 루틴  
@@ -104,6 +104,8 @@ Nest is [MIT licensed](LICENSE).
 JWT 인증 루틴  
 User, Profile 분할  
 게시글, 댓글 수정 루틴  
+
+# 현황  
 
 JWT 설정 좀 자세히 알아봐라  
 refresh토큰 넣어야 한다  
